@@ -1,0 +1,14 @@
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\bin\Debug\netcoreapp2.1\CheckVirtualAddress.deps.json
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\bin\Debug\netcoreapp2.1\CheckVirtualAddress.runtimeconfig.json
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\bin\Debug\netcoreapp2.1\CheckVirtualAddress.runtimeconfig.dev.json
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\bin\Debug\netcoreapp2.1\CheckVirtualAddress.dll
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\obj\Debug\netcoreapp2.1\CheckVirtualAddress.csprojAssemblyReference.cache
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\obj\Debug\netcoreapp2.1\CheckVirtualAddress.csproj.CoreCompileInputs.cache
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\obj\Debug\netcoreapp2.1\CheckVirtualAddress.RazorAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\obj\Debug\netcoreapp2.1\CheckVirtualAddress.RazorAssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\obj\Debug\netcoreapp2.1\CheckVirtualAddress.AssemblyInfoInputs.cache
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\obj\Debug\netcoreapp2.1\CheckVirtualAddress.AssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\obj\Debug\netcoreapp2.1\CheckVirtualAddress.RazorTargetAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\bin\Debug\netcoreapp2.1\CheckVirtualAddress.pdb
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\obj\Debug\netcoreapp2.1\CheckVirtualAddress.dll
+F:\SRS\APIs\Dot.NetCore\CheckVirtualAddress\CheckVirtualAddress\obj\Debug\netcoreapp2.1\CheckVirtualAddress.pdb

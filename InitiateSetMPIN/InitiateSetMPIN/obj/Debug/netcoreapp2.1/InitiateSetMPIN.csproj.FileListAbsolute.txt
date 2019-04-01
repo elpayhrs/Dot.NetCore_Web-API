@@ -1,0 +1,14 @@
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\bin\Debug\netcoreapp2.1\InitiateSetMPIN.deps.json
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\bin\Debug\netcoreapp2.1\InitiateSetMPIN.runtimeconfig.json
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\bin\Debug\netcoreapp2.1\InitiateSetMPIN.runtimeconfig.dev.json
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\bin\Debug\netcoreapp2.1\InitiateSetMPIN.dll
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\obj\Debug\netcoreapp2.1\InitiateSetMPIN.csprojAssemblyReference.cache
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\obj\Debug\netcoreapp2.1\InitiateSetMPIN.csproj.CoreCompileInputs.cache
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\obj\Debug\netcoreapp2.1\InitiateSetMPIN.RazorAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\obj\Debug\netcoreapp2.1\InitiateSetMPIN.RazorAssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\obj\Debug\netcoreapp2.1\InitiateSetMPIN.AssemblyInfoInputs.cache
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\obj\Debug\netcoreapp2.1\InitiateSetMPIN.AssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\obj\Debug\netcoreapp2.1\InitiateSetMPIN.RazorTargetAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\bin\Debug\netcoreapp2.1\InitiateSetMPIN.pdb
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\obj\Debug\netcoreapp2.1\InitiateSetMPIN.dll
+F:\SRS\APIs\Dot.NetCore\InitiateSetMPIN\InitiateSetMPIN\obj\Debug\netcoreapp2.1\InitiateSetMPIN.pdb

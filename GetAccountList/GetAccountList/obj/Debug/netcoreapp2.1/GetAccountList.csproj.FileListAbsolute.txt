@@ -1,0 +1,14 @@
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\bin\Debug\netcoreapp2.1\GetAccountList.deps.json
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\bin\Debug\netcoreapp2.1\GetAccountList.runtimeconfig.json
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\bin\Debug\netcoreapp2.1\GetAccountList.runtimeconfig.dev.json
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\bin\Debug\netcoreapp2.1\GetAccountList.dll
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\obj\Debug\netcoreapp2.1\GetAccountList.csprojAssemblyReference.cache
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\obj\Debug\netcoreapp2.1\GetAccountList.csproj.CoreCompileInputs.cache
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\obj\Debug\netcoreapp2.1\GetAccountList.RazorAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\obj\Debug\netcoreapp2.1\GetAccountList.RazorAssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\obj\Debug\netcoreapp2.1\GetAccountList.AssemblyInfoInputs.cache
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\obj\Debug\netcoreapp2.1\GetAccountList.AssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\obj\Debug\netcoreapp2.1\GetAccountList.RazorTargetAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\bin\Debug\netcoreapp2.1\GetAccountList.pdb
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\obj\Debug\netcoreapp2.1\GetAccountList.dll
+F:\SRS\APIs\Dot.NetCore\GetAccountList\GetAccountList\obj\Debug\netcoreapp2.1\GetAccountList.pdb

@@ -1,0 +1,14 @@
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\bin\Debug\netcoreapp2.1\CheckDeviceID.deps.json
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\bin\Debug\netcoreapp2.1\CheckDeviceID.runtimeconfig.json
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\bin\Debug\netcoreapp2.1\CheckDeviceID.runtimeconfig.dev.json
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\bin\Debug\netcoreapp2.1\CheckDeviceID.dll
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\obj\Debug\netcoreapp2.1\CheckDeviceID.csprojAssemblyReference.cache
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\obj\Debug\netcoreapp2.1\CheckDeviceID.csproj.CoreCompileInputs.cache
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\obj\Debug\netcoreapp2.1\CheckDeviceID.RazorAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\obj\Debug\netcoreapp2.1\CheckDeviceID.RazorAssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\obj\Debug\netcoreapp2.1\CheckDeviceID.AssemblyInfoInputs.cache
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\obj\Debug\netcoreapp2.1\CheckDeviceID.AssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\obj\Debug\netcoreapp2.1\CheckDeviceID.RazorTargetAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\bin\Debug\netcoreapp2.1\CheckDeviceID.pdb
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\obj\Debug\netcoreapp2.1\CheckDeviceID.dll
+F:\SRS\APIs\Dot.NetCore\CheckDeviceID\CheckDeviceID\obj\Debug\netcoreapp2.1\CheckDeviceID.pdb

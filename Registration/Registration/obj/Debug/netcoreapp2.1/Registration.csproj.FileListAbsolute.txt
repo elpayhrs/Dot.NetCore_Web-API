@@ -1,0 +1,14 @@
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\bin\Debug\netcoreapp2.1\Registration.deps.json
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\bin\Debug\netcoreapp2.1\Registration.runtimeconfig.json
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\bin\Debug\netcoreapp2.1\Registration.runtimeconfig.dev.json
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\bin\Debug\netcoreapp2.1\Registration.dll
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\obj\Debug\netcoreapp2.1\Registration.csprojAssemblyReference.cache
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\obj\Debug\netcoreapp2.1\Registration.csproj.CoreCompileInputs.cache
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\obj\Debug\netcoreapp2.1\Registration.RazorAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\obj\Debug\netcoreapp2.1\Registration.RazorAssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\obj\Debug\netcoreapp2.1\Registration.AssemblyInfoInputs.cache
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\obj\Debug\netcoreapp2.1\Registration.AssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\obj\Debug\netcoreapp2.1\Registration.RazorTargetAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\bin\Debug\netcoreapp2.1\Registration.pdb
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\obj\Debug\netcoreapp2.1\Registration.dll
+F:\SRS\APIs\Dot.NetCore\Registration\Registration\obj\Debug\netcoreapp2.1\Registration.pdb

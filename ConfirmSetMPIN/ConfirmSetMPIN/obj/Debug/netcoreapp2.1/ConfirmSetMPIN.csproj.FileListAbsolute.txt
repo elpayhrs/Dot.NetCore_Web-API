@@ -1,0 +1,14 @@
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\bin\Debug\netcoreapp2.1\ConfirmSetMPIN.deps.json
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\bin\Debug\netcoreapp2.1\ConfirmSetMPIN.runtimeconfig.json
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\bin\Debug\netcoreapp2.1\ConfirmSetMPIN.runtimeconfig.dev.json
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\bin\Debug\netcoreapp2.1\ConfirmSetMPIN.dll
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\obj\Debug\netcoreapp2.1\ConfirmSetMPIN.csprojAssemblyReference.cache
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\obj\Debug\netcoreapp2.1\ConfirmSetMPIN.csproj.CoreCompileInputs.cache
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\obj\Debug\netcoreapp2.1\ConfirmSetMPIN.RazorAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\obj\Debug\netcoreapp2.1\ConfirmSetMPIN.RazorAssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\obj\Debug\netcoreapp2.1\ConfirmSetMPIN.AssemblyInfoInputs.cache
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\obj\Debug\netcoreapp2.1\ConfirmSetMPIN.AssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\obj\Debug\netcoreapp2.1\ConfirmSetMPIN.RazorTargetAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\bin\Debug\netcoreapp2.1\ConfirmSetMPIN.pdb
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\obj\Debug\netcoreapp2.1\ConfirmSetMPIN.dll
+F:\SRS\APIs\Dot.NetCore\ConfirmSetMPIN\ConfirmSetMPIN\obj\Debug\netcoreapp2.1\ConfirmSetMPIN.pdb

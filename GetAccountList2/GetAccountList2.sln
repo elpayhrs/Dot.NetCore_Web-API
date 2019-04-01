@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetAccountList2", "GetAccountList2\GetAccountList2.csproj", "{E8855E9B-40C6-446B-B808-504167918844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8855E9B-40C6-446B-B808-504167918844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8855E9B-40C6-446B-B808-504167918844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8855E9B-40C6-446B-B808-504167918844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8855E9B-40C6-446B-B808-504167918844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C98C35-C9CD-456F-AAEA-7AE7D337535E}
+	EndGlobalSection
+EndGlobal
