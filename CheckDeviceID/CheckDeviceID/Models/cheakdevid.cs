@@ -18,7 +18,7 @@ namespace CheckDeviceID.Models
         public String androidid { get; set; }
         public String appName { get; set; }
         public String appVersionCode { get; set; }
-        public String AppVersionName { get; set; }
+        public String appVersionName { get; set; }
         public String bluetoothMac { get; set; }
         public String capability { get; set; }
         public String deviceId { get; set; }
@@ -38,7 +38,7 @@ namespace CheckDeviceID.Models
     public class AddInfo
     {
 
-        public String addInfo { get; set; }
+        public String addInfo10 { get; set; }
         public String addInfo9 { get; set; }
 
     }

@@ -25,15 +25,18 @@
     "profileId": "ardjasjo3248jrferjlj"
   },
 
-  "UserInfo": {
+  "UserInfo": 
+  {
     "altMobNo": "917303001007",
-    "email": "narendra.thakur@mindgate.in",
-    "mobileNo": "9664234682",
+    "email": "narendra.thakur@mindgate.in",   
     "name": "Narendra",
-    "secretDetails": {
+    "secretDetails": 
+    {
       "secretAnswer": "naren",
       "quesId": 100
-    },
+    }
+
+  },
     "accountId": "2002",
     "virtualAddress": "Naren@sbi"
   }

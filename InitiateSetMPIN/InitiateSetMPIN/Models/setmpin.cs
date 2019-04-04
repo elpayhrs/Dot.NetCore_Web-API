@@ -17,42 +17,43 @@ namespace InitiateSetMPIN.Models
     public class AddInfo
     {
 
-        public String addInfo10 { get; set; }
-        public String addInfo9 { get; set; }
-        public String cardType { get; set; }
+        public string addInfo10 { get; set; }
+        public string addInfo9 { get; set; }
+        public string cardType { get; set; }
+        public string accountId { get; set; }
 
     }
 
     public class DeviceInfo
     {
 
-        public String androidid { get; set; }
-        public String appName { get; set; }
-        public String appVersionCode { get; set; }
-        public String AppVersionName { get; set; }
-        public String bluetoothMac { get; set; }
-        public String capability { get; set; }
-        public String deviceId { get; set; }
-        public String deviceType { get; set; }
-        public String geoCode { get; set; }
-        public String ip { get; set; }
-        public String location { get; set; }
-        public String mobileNo { get; set; }
-        public String os { get; set; }
-        public String regId { get; set; }
-        public String selectedSimSlot { get; set; }
-        public String simId { get; set; }
-        public String wifiMac { get; set; }
-        public String expiryDate { get; set; }
-        public String lastSixDigitDebitCardno { get; set; }
+        public string androidid { get; set; }
+        public string appName { get; set; }
+        public string appVersionCode { get; set; }
+        public string appVersionName { get; set; }
+        public string bluetoothMac { get; set; }
+        public string capability { get; set; }
+        public string deviceId { get; set; }
+        public string deviceType { get; set; }
+        public string geoCode { get; set; }
+        public string ip { get; set; }
+        public string location { get; set; }
+        public string mobileNo { get; set; }
+        public string os { get; set; }
+        public string regId { get; set; }
+        public string selectedSimSlot { get; set; }
+        public string simId { get; set; }
+        public string wifiMac { get; set; }
+        public string expiryDate { get; set; }
+        public string lastSixDigitDebitCardno { get; set; }
 
     }
     public class RequestInfo
     {
-        public String pspId { get; set; }
-        public String pspRefNo { get; set; }
-        public String profileId { get; set; }
-        public String virtualAddress { get; set; }
+        public string pspId { get; set; }
+        public string pspRefNo { get; set; }
+        public string profileId { get; set; }
+        public string virtualAddress { get; set; }
 
     }
     public class InitiateSetMPINRequest
@@ -71,32 +72,32 @@ namespace InitiateSetMPIN.Models
     }
     public class RequestInfoRes
     {
-        public String pspId { get; set; }
-        public String pspRefno { get; set; }
-        public String upitranRefNo { get; set; }
-        public String npciTranId { get; set; }
-        public String otpNpciTranId { get; set; }
+        public string pspId { get; set; }
+        public string pspRefno { get; set; }
+        public string upitranRefNo { get; set; }
+        public string npciTranId { get; set; }
+        public string otpNpciTranId { get; set; }
 
     }
 
     public class DeviceInfoRes
     {
-        public String deviceId { get; set; }
-        public String mobileNo { get; set; }
+        public string deviceId { get; set; }
+        public string mobileNo { get; set; }
     }
     public class PayerType
     {
-        public String virtualAddress { get; set; }
-        public String name { get; set; }
-        public String payerBankName { get; set; }
-        public String tranactionNote { get; set; }
+        public string virtualAddress { get; set; }
+        public string name { get; set; }
+        public string payerBankName { get; set; }
+        public string tranactionNote { get; set; }
     }
     public class Cred
     {
-        public String credentialDataType { get; set; }
+        public string credentialDataType { get; set; }
         public int credentialDataLength { get; set; }
         public int atmCrdLength { get; set; }
         public int otpCrdLength { get; set; }
-        public String otpCrdType { get; set; }
+        public string otpCrdType { get; set; }
     }
 }

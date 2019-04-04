@@ -9,9 +9,9 @@ namespace ConfirmSetMPIN.DataAccess
     public class Files
     {
 
-        public RequestInfo[] Getcsmp()
+        public OtpCred[] Getcsmp()
         {
-            return new ReadFiles<RequestInfo>().Get(@"/Response.Json");
+            return new ReadFiles<OtpCred>().Get(@"/Response.Json");
         }
 
     }

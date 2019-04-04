@@ -23,45 +23,45 @@ namespace GetAccountList2.Models
     public class UserInfo
     {
 
-        public String defVPAStatus { get; set; }
-        public String name { get; set; }
-        public String accountId { get; set; }
-        public String virtualAddress { get; set; }
+        public string defVPAStatus { get; set; }
+        public string name { get; set; }
+        public string accountId { get; set; }
+        public string virtualAddress { get; set; }
 
     }
 
     public class DeviceInfo
     {
 
-        public String androidid { get; set; }
-        public String appName { get; set; }
-        public String appVersionCode { get; set; }
-        public String AppVersionName { get; set; }
-        public String bluetoothMac { get; set; }
-        public String capability { get; set; }
-        public String deviceId { get; set; }
-        public String deviceType { get; set; }
-        public String geoCode { get; set; }
-        public String ip { get; set; }
-        public String location { get; set; }
-        public String mobileNo { get; set; }
-        public String os { get; set; }
-        public String regId { get; set; }
-        public String selectedSimSlot { get; set; }
-        public String simId { get; set; }
-        public String wifiMac { get; set; }
-        public String recoveryOptionFlag { get; set; }
+        public string androidid { get; set; }
+        public string appName { get; set; }
+        public string appVersionCode { get; set; }
+        public string appVersionName { get; set; }
+        public string bluetoothMac { get; set; }
+        public string capability { get; set; }
+        public string deviceId { get; set; }
+        public string deviceType { get; set; }
+        public string geoCode { get; set; }
+        public string ip { get; set; }
+        public string location { get; set; }
+        public string mobileNo { get; set; }
+        public string os { get; set; }
+        public string regId { get; set; }
+        public string selectedSimSlot { get; set; }
+        public string simId { get; set; }
+        public string wifiMac { get; set; }
+        public string recoveryOptionFlag { get; set; }
 
 
     }
 
     public class RequestInfo
     {
-        public String pspId { get; set; }
-        public String pspRefNo { get; set; }
-        public String profileId { get; set; }
-        public String requestType { get; set; }
-        public String updateFlag { get; set; }
+        public string pspId { get; set; }
+        public string pspRefNo { get; set; }
+        public string profileId { get; set; }
+        public string requestType { get; set; }
+        public string updateFlag { get; set; }
 
     }
 
@@ -81,28 +81,28 @@ namespace GetAccountList2.Models
     //response classes
     public class RequestInfoRes//this is for response class
     {
-        public String pspId { get; set; }
-        public String pspRefNo { get; set; }
+        public string pspId { get; set; }
+        public string pspRefNo { get; set; }
     }
 
     public class UserInfoRes
     {
-        public String name { get; set; }
+        public string name { get; set; }
 
-        public String virtualAddress { get; set; }
+        public string virtualAddress { get; set; }
 
     }
 
     public class AccountList
     {
-        public String accId { get; set; }
-        public String maskedAccountNumber { get; set; }
-        public String mpinFlag { get; set; }
-        public String ifscCode { get; set; }
-        public String uPinLength { get; set; }
-        public String bankId { get; set; }
-        public String accountName { get; set; }
-        public String bankCode { get; set; }
+        public string accId { get; set; }
+        public string maskedAccountNumber { get; set; }
+        public string mpinFlag { get; set; }
+        public string ifscCode { get; set; }
+        public string uPinLength { get; set; }
+        public string bankId { get; set; }
+        public string accountName { get; set; }
+        public string bankCode { get; set; }
     }
 
 

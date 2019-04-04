@@ -11,7 +11,8 @@ namespace CheckDeviceID.DataAccess
         public DeviceInfores[] getDevice()
         {
             //return new ReadFile<Bank>().Get(@"\banks.json");
-            return new ReadFiles<DeviceInfores>().Get(@"/Response.json");
+            return new ReadFiles<DeviceInfores>().Get(@"\Response.json");
+           // return new ReadFiles<DeviceInfores>().Get(@"/Response.json"); //linux
         }
     }
 }

@@ -24,51 +24,53 @@ namespace Registration.Models
         public DeviceInfo Deviceinfo { get; set; }
         public RequestInfo RequestInfo { get; set; }
         public UserInfo userInfo { get; set; }
+        public string accountId { get; set; }
+        public string virtualAddress { get; set; }
     }
 
 
     public class DeviceInfo
     {
 
-        public String androidid { get; set; }
-        public String appName { get; set; }
-        public String appVersionCode { get; set; }
-        public String AppVersionName { get; set; }
-        public String bluetoothMac { get; set; }
-        public String capability { get; set; }
-        public String deviceId { get; set; }
-        public String deviceType { get; set; }
-        public String geoCode { get; set; }
-        public String ip { get; set; }
-        public String location { get; set; }
-        public String mobileNo { get; set; }
-        public String os { get; set; }
-        public String regId { get; set; }
-        public String selectedSimSlot { get; set; }
-        public String simId { get; set; }
-        public String WifiMac { get; set; }
+        public string androidid { get; set; }
+        public string appName { get; set; }
+        public string appVersionCode { get; set; }
+        public string appVersionName { get; set; }
+        public string bluetoothMac { get; set; }
+        public string capability { get; set; }
+        public string deviceId { get; set; }
+        public string deviceType { get; set; }
+        public string geoCode { get; set; }
+        public string ip { get; set; }
+        public string location { get; set; }
+        public string mobileNo { get; set; }
+        public string os { get; set; }
+        public string regId { get; set; }
+        public string selectedSimSlot { get; set; }
+        public string simId { get; set; }
+        public string WifiMac { get; set; }
 
     }
 
     public class RequestInfo
     {
 
-        public String pspId { get; set; }
-        public String pspRefNo { get; set; }
+        public string pspId { get; set; }
+        public string pspRefNo { get; set; }
         public string pspRespRefNo { get; set; }
-        public String profileId { get; set; }
+        public string profileId { get; set; }
 
     }
 
     public class UserInfo
     {
         public string altMobNo { get; set; }
-        public string accountId { get; set; }
+        
         public string email { get; set; }
         public string mobileNo { get; set; }
         public secretDetails secretDetails { get; set; }
         public string name { get; set; }
-        public string virtualAddress { get; set; }
+        
     }
     public class secretDetails
     {
@@ -78,8 +80,8 @@ namespace Registration.Models
 
     public class RequstinfoRes
     {
-        public String pspId { get; set; }
-        public String pspRefNo { get; set; }
+        public string pspId { get; set; }
+        public string pspRefNo { get; set; }
         public string pspRespRefNo { get; set; }
     }
 

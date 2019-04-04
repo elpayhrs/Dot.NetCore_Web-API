@@ -1,38 +1,38 @@
 [
   {
-    "accId": 0,
-    "bankCode": "SBIN",
-    "bankId": 1,
-    "bankName": "State Bank Of India",
-    "canShowBalance": false,
-    "checkedAccount": false,
-    "uPinLength": 0
+    "atmCrdLength": 0,
+    "credentialDataCode": "NPCI",
+    "credentialDataKi": "20150822",
+    "credentialDataLength": 0,
+    "credentialDataValue": "Mi4wfGVzMjIzTk43a1JBMUI5eUpXTU5PaHpvdlFhVHRnMkZaZUR5L2pQU3U3b2I1bStGc1FiNW53\nNEFU U0xTNzQ3dHM0ZFhHeitiNytwQzBZejcvRkpXS3R3SGxBV0I0U2hBVkRFQSs4U205T3FNU3dl\nc1VRYk43Y2h YS3habjl1UStwUkE1eWFXWjkzRllrREs4U3p6T1ZmL1ZCOFB2SUhWekRWMzBKRmtG\nVDlFci9pTmZDaXh4 dWhZSFRiOUdJazI3YlE1WjdqYlYwR0Vkc0xuMzBZWFB2UTc3TDZpNFNXYnV0\nZ0Qxa3BTMUcxRzhyUWV3 VzBYWXVFN0RrelFnTXdjeVdyWW5aaFVwNGRPMFhGRGRBRlBJbUNxZlp3\nc0E1d05rdGhYM1BzYzF0cmF WbjdNVmx1REJoNXRJd1BQR3hXSjBhQWQySEJ1Szh6MW9TdVM1dGd6\nSUx1Zz09\n",
+    "credentialSubType": "SMS",
+    "credentialType": "OTP"
   },
   {
-    "accId": 0,
-    "bankCode": "ICIC",
-    "bankId": 2,
-    "bankName": "ICICI Bank",
-    "canShowBalance": false,
-    "checkedAccount": false,
-    "uPinLength": 0
+    "atmCrdLength": 0,
+    "credentialDataCode": "NPCI",
+    "credentialDataKi": "20150822",
+    "credentialDataLength": 0,
+    "credentialDataValue": "Mi4wfGVzMjIzTk43a1JBMUI5eUpXTU5PaHpvdlFhVHRnMkZaZUR5L2pQU3U3b2I1bStGc1FiNW53\nNEFU U0xTNzQ3dHM0ZFhHeitiNytwQzBZejcvRkpXS3R3SGxBV0I0U2hBVkRFQSs4U205T3FNU3dl\nc1VRYk43Y2h YS3habjl1UStwUkE1eWFXWjkzRllrREs4U3p6T1ZmL1ZCOFB2SUhWekRWMzBKRmtG\nVDlFci9pTmZDaXh4 dWhZSFRiOUdJazI3YlE1WjdqYlYwR0Vkc0xuMzBZWFB2UTc3TDZpNFNXYnV0\nZ0Qxa3BTMUcxRzhyUWV3 VzBYWXVFN0RrelFnTXdjeVdyWW5aaFVwNGRPMFhGRGRBRlBJbUNxZlp3\nc0E1d05rdGhYM1BzYzF0cmF WbjdNVmx1REJoNXRJd1BQR3hXSjBhQWQySEJ1Szh6MW9TdVM1dGd6\nSUx1Zz09\n",
+    "credentialSubType": "SMS",
+    "credentialType": "OTP"
   },
   {
-    "accId": 0,
-    "bankCode": "ANDB",
-    "bankId": 3,
-    "bankName": "Andra Bank",
-    "canShowBalance": false,
-    "checkedAccount": false,
-    "uPinLength": 0
+    "atmCrdLength": 0,
+    "credentialDataCode": "NPCI",
+    "credentialDataKi": "20150822",
+    "credentialDataLength": 0,
+    "credentialDataValue": "Mi4wfGVzMjIzTk43a1JBMUI5eUpXTU5PaHpvdlFhVHRnMkZaZUR5L2pQU3U3b2I1bStGc1FiNW53\nNEFU U0xTNzQ3dHM0ZFhHeitiNytwQzBZejcvRkpXS3R3SGxBV0I0U2hBVkRFQSs4U205T3FNU3dl\nc1VRYk43Y2h YS3habjl1UStwUkE1eWFXWjkzRllrREs4U3p6T1ZmL1ZCOFB2SUhWekRWMzBKRmtG\nVDlFci9pTmZDaXh4 dWhZSFRiOUdJazI3YlE1WjdqYlYwR0Vkc0xuMzBZWFB2UTc3TDZpNFNXYnV0\nZ0Qxa3BTMUcxRzhyUWV3 VzBYWXVFN0RrelFnTXdjeVdyWW5aaFVwNGRPMFhGRGRBRlBJbUNxZlp3\nc0E1d05rdGhYM1BzYzF0cmF WbjdNVmx1REJoNXRJd1BQR3hXSjBhQWQySEJ1Szh6MW9TdVM1dGd6\nSUx1Zz09\n",
+    "credentialSubType": "SMS",
+    "credentialType": "OTP"
   },
   {
-    "accId": 0,
-    "bankCode": "CANR",
-    "bankId": 4,
-    "bankName": "Canara Bank",
-    "canShowBalance": false,
-    "checkedAccount": false,
-    "uPinLength": 0
+    "atmCrdLength": 0,
+    "credentialDataCode": "NPCI",
+    "credentialDataKi": "20150822",
+    "credentialDataLength": 0,
+    "credentialDataValue": "Mi4wfGVzMjIzTk43a1JBMUI5eUpXTU5PaHpvdlFhVHRnMkZaZUR5L2pQU3U3b2I1bStGc1FiNW53\nNEFU U0xTNzQ3dHM0ZFhHeitiNytwQzBZejcvRkpXS3R3SGxBV0I0U2hBVkRFQSs4U205T3FNU3dl\nc1VRYk43Y2h YS3habjl1UStwUkE1eWFXWjkzRllrREs4U3p6T1ZmL1ZCOFB2SUhWekRWMzBKRmtG\nVDlFci9pTmZDaXh4 dWhZSFRiOUdJazI3YlE1WjdqYlYwR0Vkc0xuMzBZWFB2UTc3TDZpNFNXYnV0\nZ0Qxa3BTMUcxRzhyUWV3 VzBYWXVFN0RrelFnTXdjeVdyWW5aaFVwNGRPMFhGRGRBRlBJbUNxZlp3\nc0E1d05rdGhYM1BzYzF0cmF WbjdNVmx1REJoNXRJd1BQR3hXSjBhQWQySEJ1Szh6MW9TdVM1dGd6\nSUx1Zz09\n",
+    "credentialSubType": "SMS",
+    "credentialType": "OTP"
   }
 ]

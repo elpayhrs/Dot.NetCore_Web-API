@@ -11,7 +11,8 @@ namespace GetAccountList2.DataAccess
 
         public AccountList[] Account2()
         {
-            return new ReadFiles<AccountList>().Get(@"/Response.Json");
+            //return new ReadFiles<AccountList>().Get(@"/Response.Json");
+            return new ReadFiles<AccountList>().Get(@"\Response.json");
         }
 
     }

@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConfirmSetMPIN\\ConfirmSetMPIN\\DataAccess\\MockData",
-    "\\GetAccountList2\\GetAccountList2\\DataAccess\\MockData",
-    "\\GetBankListReq",
-    "\\GetBankListReq\\GetBankListReq",
+    "\\ConfirmSetMPIN\\ConfirmSetMPIN",
+    "\\ConfirmSetMPIN\\ConfirmSetMPIN\\Controllers",
+    "\\GetAccountList2\\GetAccountList2",
+    "\\GetAccountList2\\GetAccountList2\\Controllers",
     "\\InitiateSetMPIN\\InitiateSetMPIN",
     "\\InitiateSetMPIN\\InitiateSetMPIN\\DataAccess",
     "\\InitiateSetMPIN\\InitiateSetMPIN\\DataAccess\\MockData",
-    "\\Registration\\Registration\\DataAccess",
-    "\\Registration\\Registration\\DataAccess\\MockData"
+    "\\Registration\\Registration",
+    "\\Registration\\Registration\\Controllers"
   ],
-  "SelectedNode": "\\GetBankListReq\\GetBankList.sln",
+  "SelectedNode": "\\GetBankListReq",
   "PreviewInSolutionExplorer": false
 }

@@ -11,7 +11,8 @@ namespace CheckVirtualAddress.DataAccess
 
         public VpaDetails[] GetVpaDetails()
         {
-            return new ReadFiles<VpaDetails>().Get(@"/Response.json");
+            // return new ReadFiles<VpaDetails>().Get(@"/Response.json");
+            return new ReadFiles<VpaDetails>().Get(@"\Response.json");
         }
 
     }

@@ -11,7 +11,8 @@ namespace InitiateSetMPIN.DataAccess
 
         public Cred[] Getcred()
         {
-            return new ReadFiles<Cred>().Get(@"/Response.json");
+            // return new ReadFiles<Cred>().Get(@"/Response.json");// linux
+            return new ReadFiles<Cred>().Get(@"\Response.json");
         }
 
     }

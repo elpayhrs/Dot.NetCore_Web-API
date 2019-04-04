@@ -22,6 +22,8 @@ namespace GetAccountList.Models
         public Deviceinfo Deviceinfo { get; set; }
         public RequestInfo RequestInfo { get; set; }
         public UserInfo UserInfo { get; set; }
+        public string bankCode { get; set; }
+        public string requestType { get; set; }
 
     }
 
@@ -50,7 +52,7 @@ namespace GetAccountList.Models
 
     public class RequestInfo
     {
-
+        public string pspid { get; set; }
         public string pspRefNo { get; set; }
         public string profileId { get; set; }
 

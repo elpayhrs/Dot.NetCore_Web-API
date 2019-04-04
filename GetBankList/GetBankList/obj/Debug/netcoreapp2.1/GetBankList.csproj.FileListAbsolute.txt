@@ -1,0 +1,14 @@
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\bin\Debug\netcoreapp2.1\GetBankList.deps.json
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\bin\Debug\netcoreapp2.1\GetBankList.runtimeconfig.json
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\bin\Debug\netcoreapp2.1\GetBankList.runtimeconfig.dev.json
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\bin\Debug\netcoreapp2.1\GetBankList.dll
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\obj\Debug\netcoreapp2.1\GetBankList.csprojAssemblyReference.cache
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\obj\Debug\netcoreapp2.1\GetBankList.csproj.CoreCompileInputs.cache
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\obj\Debug\netcoreapp2.1\GetBankList.RazorAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\obj\Debug\netcoreapp2.1\GetBankList.RazorAssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\obj\Debug\netcoreapp2.1\GetBankList.AssemblyInfoInputs.cache
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\obj\Debug\netcoreapp2.1\GetBankList.AssemblyInfo.cs
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\obj\Debug\netcoreapp2.1\GetBankList.RazorTargetAssemblyInfo.cache
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\bin\Debug\netcoreapp2.1\GetBankList.pdb
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\obj\Debug\netcoreapp2.1\GetBankList.dll
+F:\SRS\APIs\Dot.NetCore\GetBankList\GetBankList\obj\Debug\netcoreapp2.1\GetBankList.pdb

@@ -10,7 +10,8 @@ namespace GetAccountList.DataAccess
     {
         public AccountList[] GetAccounts()
         {
-            return new ReadFiles<AccountList>().Get(@"/Response.Json");
+           // return new ReadFiles<AccountList>().Get(@"/Response.Json");
+            return new ReadFiles<AccountList>().Get(@"\Response.json");
         }
     }
 }

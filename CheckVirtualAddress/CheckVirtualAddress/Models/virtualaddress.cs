@@ -31,44 +31,44 @@ namespace CheckVirtualAddress.Models
     public class DeviceInfo
     {
 
-        public String androidid { get; set; }
-        public String appName { get; set; }
-        public String appVersionCode { get; set; }
-        public String AppVersionName { get; set; }
-        public String bluetoothMac { get; set; }
-        public String capability { get; set; }
-        public String deviceId { get; set; }
-        public String deviceType { get; set; }
-        public String geoCode { get; set; }
-        public String ip { get; set; }
-        public String location { get; set; }
-        public String mobileNo { get; set; }
-        public String os { get; set; }
-        public String regId { get; set; }
-        public String selectedSimSlot { get; set; }
-        public String simId { get; set; }
-        public String wifiMac { get; set; }
+        public string androidid { get; set; }
+        public string appName { get; set; }
+        public string appVersionCode { get; set; }
+        public string appVersionName { get; set; }
+        public string bluetoothMac { get; set; }
+        public string capability { get; set; }
+        public string deviceId { get; set; }
+        public string deviceType { get; set; }
+        public string geoCode { get; set; }
+        public string ip { get; set; }
+        public string location { get; set; }
+        public string mobileNo { get; set; }
+        public string os { get; set; }
+        public string regId { get; set; }
+        public string selectedSimSlot { get; set; }
+        public string simId { get; set; }
+        public string wifiMac { get; set; }
 
     }
     public class AddInfo
     {
 
-        public String addInfo { get; set; }
-        public String addInfo9 { get; set; }
+        public string addInfo10 { get; set; }
+        public string addInfo9 { get; set; }
 
     }
     public class PayeeType
     {
-        public String virtualAddress { get; set; }
+        public string virtualAddress { get; set; }
 
     }
     public class RequestInfo
     {
 
-        public String pspId { get; set; }
-        public String pspRefNo { get; set; }
-        public String profileId { get; set; }
-        public String vAReqType { get; set; }
+        public string pspId { get; set; }
+        public string pspRefNo { get; set; }
+        public string profileId { get; set; }
+        public string vAReqType { get; set; }
 
     }
 
@@ -76,25 +76,25 @@ namespace CheckVirtualAddress.Models
 
     public class requestInfo
     {
-        public String pspid { get; set; }
-        public String pspRefNo { get; set; }
+        public string pspid { get; set; }
+        public string pspRefNo { get; set; }
     }
 
     public class PayeeTypeRes
     {
-        public String defVPAStatus { get; set; }
-        public String isVerified { get; set; }
-        public String name { get; set; }
-        public String spamRefNo { get; set; }
-        public String virtualAddress { get; set; }
+        public string defVPAStatus { get; set; }
+        public string isVerified { get; set; }
+        public string name { get; set; }
+        public string spamRefNo { get; set; }
+        public string virtualAddress { get; set; }
 
 
     }
     public class VpaDetails
     {
-        public String fVaddr { get; set; }
-        public String fName { get; set; }
-        public String defVPAStatus { get; set; }
+        public string fVaddr { get; set; }
+        public string fName { get; set; }
+        public string defVPAStatus { get; set; }
     }
 
 
